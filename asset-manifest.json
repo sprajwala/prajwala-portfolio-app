@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/prajwala-portfolio-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/prajwala-portfolio-app/static/js/main.2b2fb1ed.chunk.js",
+    "main.js.map": "/prajwala-portfolio-app/static/js/main.2b2fb1ed.chunk.js.map",
+    "runtime-main.js": "/prajwala-portfolio-app/static/js/runtime-main.394d31c0.js",
+    "runtime-main.js.map": "/prajwala-portfolio-app/static/js/runtime-main.394d31c0.js.map",
+    "static/js/2.f960d3f7.chunk.js": "/prajwala-portfolio-app/static/js/2.f960d3f7.chunk.js",
+    "static/js/2.f960d3f7.chunk.js.map": "/prajwala-portfolio-app/static/js/2.f960d3f7.chunk.js.map",
+    "index.html": "/prajwala-portfolio-app/index.html",
+    "precache-manifest.f21e0c4948699bae2deedd4bd3d693e9.js": "/prajwala-portfolio-app/precache-manifest.f21e0c4948699bae2deedd4bd3d693e9.js",
+    "service-worker.js": "/prajwala-portfolio-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/prajwala-portfolio-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f960d3f7.chunk.js.LICENSE.txt": "/prajwala-portfolio-app/static/js/2.f960d3f7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.394d31c0.js",
+    "static/js/2.f960d3f7.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.2b2fb1ed.chunk.js"
+  ]
+}
