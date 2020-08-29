@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d10f0b96389990ededa450f20ea19474",
+    "revision": "f67c1f7f66d0a9045e7222dff0aca789",
     "url": "/prajwala-portfolio-app/index.html"
   },
   {
-    "revision": "f2189c3c4e598941a1df",
+    "revision": "3804d1f9784ed31d88db",
     "url": "/prajwala-portfolio-app/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/prajwala-portfolio-app/static/js/2.f960d3f7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f2189c3c4e598941a1df",
-    "url": "/prajwala-portfolio-app/static/js/main.2b2fb1ed.chunk.js"
+    "revision": "3804d1f9784ed31d88db",
+    "url": "/prajwala-portfolio-app/static/js/main.33dfcdec.chunk.js"
   },
   {
     "revision": "f583e4a2de53b474e965",
